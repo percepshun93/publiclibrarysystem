@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1452099822 source:d:\internshala\democ\finalproject-librarysystem\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	<sstream>
+	"common.h"
+	"Validator.h"
+	"Book.h"
+	"Book_Manager.h"
+	"Subscriber.h"
+	"Subscriber_Manager.h"
+	"Transactor.h"
+	"Transactor_Manager.h"
+	"Menu_Controller.h"
+
+1452346792 d:\internshala\democ\finalproject-librarysystem\validator.h
+
+1452092132 d:\internshala\democ\finalproject-librarysystem\book.h
+	<cstring>
+
+1452093649 d:\internshala\democ\finalproject-librarysystem\subscriber.h
+
+1452095756 d:\internshala\democ\finalproject-librarysystem\transactor.h
+
+1451543045 d:\internshala\democ\finalproject-librarysystem\reports.h
+
+1451543045 d:\internshala\democ\finalproject-librarysystem\controller.h
+
+1452092979 d:\internshala\democ\finalproject-librarysystem\common.h
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cctype>
+
+1452398156 d:\internshala\democ\finalproject-librarysystem\book_manager.h
+
+1452398236 d:\internshala\democ\finalproject-librarysystem\subscriber_manager.h
+
+1452398312 d:\internshala\democ\finalproject-librarysystem\transactor_manager.h
+
+1452398322 d:\internshala\democ\finalproject-librarysystem\menu_controller.h
+
+1451651151 d:\internshala\democ\finalproject-librarysystem\report_controller.h
+
